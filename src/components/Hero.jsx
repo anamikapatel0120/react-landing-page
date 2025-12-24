@@ -7,7 +7,7 @@ export default function Hero() {
         </h1>
 
         <p style={styles.subtext}>
-          Hi, I’m <strong>Anamika</strong> — a passionate web Developer
+          Hi, I’m <strong>Anamika</strong> — a passionate Web Developer
           building modern, responsive web applications for internship and
           real-world impact.
         </p>
